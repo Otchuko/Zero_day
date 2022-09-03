@@ -1,1 +1,1 @@
-A glimps of vagrant
+correcting 0x00-vagrant
